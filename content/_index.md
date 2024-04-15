@@ -2,7 +2,8 @@
 _schema: default
 title: Home
 SEO_options: {}
-hero: {}
+hero:
+  background_image: /uploads/hero-sm-bg.jpg
 content_blocks:
   - _bookshop_name: big-hero
     preheading: Prepare for new future

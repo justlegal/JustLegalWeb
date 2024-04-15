@@ -8,7 +8,7 @@ content_blocks:
   - _bookshop_name: big-hero
     preheading: Prepare for new future
     heading: Our work is <br>presentation of our <br>capabilities.
-    background_image: /images/bg/hero-bg.jpg
+    background_image: /uploads/hero-sm-bg.jpg
     link:
       text: Get started
       url: '#'

@@ -1,5 +1,5 @@
-module megakit.local
+module github.com/justlegal/JustLegalWeb
 
-go 1.17
+go 1.22.1
 
-require github.com/cloudcannon/bookshop/hugo/v3 v3.2.1 // indirect
+require github.com/cloudcannon/bookshop/hugo/v3 v3.9.0 // indirect

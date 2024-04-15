@@ -1,17 +1,13 @@
 ---
+_schema: default
 title: Home
-seo:
-  page_description:
-  canonical_url:
-  featured_image:
-  author_twitter_handle:
-  open_graph_type:
-  no_index: false
+SEO_options: {}
+hero: {}
 content_blocks:
   - _bookshop_name: big-hero
     preheading: Prepare for new future
     heading: Our work is <br>presentation of our <br>capabilities.
-    background_image: /images/bg/home-1.jpg
+    background_image: /images/bg/hero-bg.jpg
     link:
       text: Get started
       url: '#'
